@@ -1,2 +1,2 @@
 # seleniumTest
-Selenium web automation
+Complementary Selenium web automation test for my course in testdriven development
